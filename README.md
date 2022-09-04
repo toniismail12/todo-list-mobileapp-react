@@ -4,7 +4,7 @@ preview
 <br/>
 
 <div align="center">
- <img src="preview-1.jpeg" alt="Preview" width="100" height="100">
- <br/>
- <img src="preview-2.jpeg" alt="Preview" width="100" height="100">
+ <img src="preview-1.jpeg" alt="Preview" width="500" height="1000">
+
+ <img src="preview-2.jpeg" alt="Preview" width="500" height="1000">
 </div>
